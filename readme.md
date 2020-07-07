@@ -8,7 +8,8 @@ apt-get install -y xz-utils openssl gawk file
 ## 2.下载及说明：
 
 ```shell
-wget https://fly97.coding.net/p/shell/d/shell/git/raw/master/dd/InstallNET.sh chmod a+x InstallNET.sh
+wget https://cdn.jsdelivr.net/gh/wf09/dd/InstallNET.sh
+chmod a+x InstallNET.sh
 ```
 
 ## 3.安装Ubuntu16.04（大约要等半个小时）:
